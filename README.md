@@ -7,3 +7,4 @@ In the html part i have given the division.
 In the css part I style the background image and added some colors.
 I have mainly worked in the javascript part, it's a very important part of this project. i have created grid function it will generate some random numbers at the random place.if you refresh the page then it will again genrate random numbers at random place.
 I have added the a function for checking if the number is repeating or not if it is not the color will be green otherwise it would be red.
+
